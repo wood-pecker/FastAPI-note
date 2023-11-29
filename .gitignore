@@ -1,0 +1,9 @@
+.idea/
+.pytest_cache/
+__pycache__/
+venv/
+notes.md
+/.coverage
+/htmlcov/
+notes.md
+for_delete.py 
